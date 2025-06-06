@@ -1,6 +1,21 @@
-# unity_ToyGame
-😀Hello, I'm Hugh (korea name is JinHyung Kim)  
-✨Introduce briefly the "ToyGame(꿈꾸는 장난감)"   
-📅I developed in Indie Game class. (2021/10/01 ~ 2021/12/19)  
-🎮It is a game designed by combining AR and an healing game. (challenge!!)  
-Participate as game designer and Programmer  
+# 꿈꾸는 장난감 🎠
+
+AR 연동 힐링 방치형 게임. FSM + NavMesh 기반 자율 캐릭터 구조와  
+상속 구조 개선, UML 작성까지 구조적 감각을 확장한 팀 프로젝트입니다.
+
+## 📌 프로젝트 개요
+
+- 장르: 3D 힐링 방치형 + AR
+- 역할: 팀장 / 프로그래머
+- 기간: 1학기
+
+## 🔧 주요 기능
+
+- FSM + NavMesh 기반 AI (10캐릭터 × 7상태)
+- PlayerPrefs 저장 / 골드 시스템
+- AR 카메라 현실 투사 연동
+
+## 💡 기술 포인트
+
+- 상속 구조 리팩토링 (확장성 중심)
+- UML 시각화를 통한 구조 설계 경험
